@@ -1,3 +1,3 @@
 <?php 
-	include 'responsive-edu.html';
+	include 'tset.html';
 ?>
