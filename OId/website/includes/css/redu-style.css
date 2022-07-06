@@ -1,0 +1,8 @@
+*{ margin: 0; }
+.r_ht-1 {height: 10px;} .r_ht-2 {height: 20px;} .r_ht-3 {height: 40px;} .r_ht-4 {height: 60px;} .r_ht-5 {height: 80px;}
+.r_ht1 {height: 100px;} .r_ht2 {height: 200px;} .r_ht3 {height: 300px;} .r_ht4 {height: 400px;} .r_ht5 {height: 500px;}
+#r_header-info {}
+.r_break-10{ width: 100%; height: 10px; background-color: none;}
+.r_break-5{ width: 100%; height: 5px; background-color: none;}
+.r_block {height: ;}
+.r_fs-10{font-size: 10px;} .r_fs-15{font-size: 15px;} .r_fs-20{font-size: 20px;} .r_fs-25{font-size: 25px;}
