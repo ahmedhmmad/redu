@@ -1,3 +1,3 @@
 <?php 
-	include 'tset.html';
+	include 'home.html';
 ?>
