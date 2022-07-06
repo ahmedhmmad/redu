@@ -56,6 +56,9 @@
 			<div class="row gx-1">
 				<!-- Start Main-right Section -->
 				<div class="col-sm-12 col-md-8 mb-1 mb-md-0">
+					<?php include 'carousel/index.html'; ?>
+
+					<!---
 					<div id="myCarousel" class="mb-0 carousel slide" data-ride="carousel">
 				        <div class="carousel-inner">
 				            <div class="carousel-item active">
@@ -96,6 +99,7 @@
 				            <span class="sr-only"></span>
 				        </a>
 				    </div>
+				    --->
 				</div>
 				<!--  End Main-right Section  -->
 				<!-- ****************** -->
