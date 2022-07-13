@@ -2,6 +2,8 @@
 
 <script src="assets/dist/js/vendor/popper.min.js"></script>
 <script src="assets/dist/js/bootstrap.min.js"></script>
+<script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+
 
 
 <!---- Scripts for Carousel 
