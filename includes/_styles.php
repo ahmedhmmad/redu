@@ -5,9 +5,13 @@
 --->
 <!---- Bootstarp Styles ------------>
 <link rel="stylesheet" type="text/css" href="assets/dist/css/bootstrap.rtl.min.css">
-<link rel="stylesheet" type="text/css" href="assets/dist/css/carousel.css">
+<link rel="stylesheet" type="text/css" href="assets/dist/css/carousel.rtl.css">
+<link rel="stylesheet" type="text/css" href="assets/dist/css/navbar.css">
 <!------------------------------------------------------------------>
-<link rel="stylesheet" type="text/css" href="includes\css\redu-style.css">
+
+<link rel="stylesheet" type="text/css" href="includes/css/redu-style.css">
+
+
 
 <!--- Enternal Styles for Carsousel 
 <link rel="stylesheet" href="assets/carousel/fonts/icomoon/style.css">

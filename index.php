@@ -26,9 +26,17 @@
 
 	<!------- Main ----------------->
 	<main>
-		<?php
-			require 'includes/index/main.php';
-		?>
+		<!-- Start Top-Main Section -->
+		<?php require 'includes/index/main/top-main.php'; ?>
+		<!--  End Top-Main Section  -->
+		<!------------------------>
+		<!-- Start Middle-Main Section -->
+		<?php require 'includes/index/main/mid-main.php'; ?>
+		<!--  End Middle-Main Section  -->
+		<!------------------------>
+		<!-- Start Buttom-Main Section -->
+		<?php require 'includes/index/main/btm-main.php'; ?>
+		<!--  End Buttom-Main Section  -->
 	</main>
 	<!------------------------------>
 
