@@ -10,7 +10,7 @@
 		</div>
 
 		<div class="carousel-item">
-			<img class="img-fluid second-slide" src="moon.jpg" alt="Second slide">
+			<img class="img-fluid second-slide" src="includes\images\the-boss.jpg" alt="Second slide">
 			<div class="container">
 				<div class="carousel-caption text-right">
 					<h1>One more for good measure.2</h1>
@@ -19,7 +19,7 @@
 		</div>
 
 		<div class="carousel-item">
-			<img class="img-fluid third-slide" src="moon.jpg" alt="Third slide">
+			<img class="img-fluid third-slide" src="includes\images\the-boss.jpg" alt="Third slide">
 			<div class="container">
 				<div class="carousel-caption text-right">
 					<h1>One more for good measure.3</h1>

@@ -9,7 +9,9 @@
 <link rel="stylesheet" type="text/css" href="assets/dist/css/navbar.css">
 <!------------------------------------------------------------------>
 
+<link rel="stylesheet" type="text/css" href="includes/css/redu-fonts.css">
 <link rel="stylesheet" type="text/css" href="includes/css/redu-style.css">
+
 
 
 

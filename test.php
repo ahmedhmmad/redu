@@ -18,7 +18,7 @@
 <body class="p-0">
 	<!------- D e m o -------------->
 	<?php  
-		require 'demo.html';
+		require 'includes/index/header2.php';
 	?>
 	<!------------------------------>
 	<!------- Scripts -------------->
