@@ -16,6 +16,9 @@
 	<!------------------------------>
 </head>
 <body class="p-0">
+	<!-- Start Section -->
+		<?php require 'includes/class/News.php'; ?>
+	<!--  End Section  -->
 	<!------- Header --------------->
 	<header>
 		<?php

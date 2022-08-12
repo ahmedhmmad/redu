@@ -1,31 +1,28 @@
+
 <div id="myCarousel" class="mb-0 carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
-		<div class="carousel-item active">
-			<img class="img-fluid first-slide" src="includes\images\the-boss.jpg" alt="First slide">
-			<div class="container">
-				<div class="carousel-caption text-right">
-					<h1>مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات</h1>
-				</div>
-			</div>
-		</div>
+	<?php 
 
-		<div class="carousel-item">
-			<img class="img-fluid second-slide" src="includes\images\the-boss.jpg" alt="Second slide">
+		for ($i=0; $i <= 6 ; $i++) {
+			if($i == 0) {
+				$a = 'active';
+			}
+			else {
+				$a = "";
+			}
+	?>
+		<div class="carousel-item <?= $a; ?> ">
+			<img class="img-fluid first-slide" src="includes\images\news-<?=$i+1?>.jpg" alt="First slide">
 			<div class="container">
 				<div class="carousel-caption text-right">
-					<h1>One more for good measure.2</h1>
+					<h1><?= $news[$i]?></h1>
 				</div>
 			</div>
 		</div>
+	<?php } ?>
+		
 
-		<div class="carousel-item">
-			<img class="img-fluid third-slide" src="includes\images\the-boss.jpg" alt="Third slide">
-			<div class="container">
-				<div class="carousel-caption text-right">
-					<h1>One more for good measure.3</h1>
-				</div>
-			</div>
-		</div>
+
 	</div>
 	
 	<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
