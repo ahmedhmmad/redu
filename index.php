@@ -15,39 +15,25 @@
 	?>
 	<!------------------------------>
 </head>
-<body class="p-0">
+<body class="p-0" style="background-color: var(--color-4);">
 	<!-- Start Section -->
 		<?php require 'includes/class/News.php'; ?>
 	<!--  End Section  -->
 	<!------- Header --------------->
 	<header>
-		<?php
-			require 'includes/index/header.php';
-		?>
+		<?php require 'includes/index/header.php'; ?>
 	</header>
 	<!------------------------------>
 
 	<!------- Main ----------------->
 	<main>
-		<!-- Start Top-Main Section -->
-		<?php require 'includes/index/main/top-main.php'; ?>
-		<!--  End Top-Main Section  -->
-		<!------------------------>
-		<!-- Start Middle-Main Section -->
-		<?php require 'includes/index/main/mid-main.php'; ?>
-		<!--  End Middle-Main Section  -->
-		<!------------------------>
-		<!-- Start Buttom-Main Section -->
-		<?php require 'includes/index/main/btm-main.php'; ?>
-		<!--  End Buttom-Main Section  -->
+		<?php require 'includes/index/main.php'; ?>
 	</main>
 	<!------------------------------>
 
 	<!------- footer --------------->
 	<footer>
-		<?php
-			require 'includes/index/footer.php';
-		?>
+		<?php require 'includes/index/footer.php'; ?>
 	</footer>
 	<!------------------------------>
 	

@@ -1,53 +1,101 @@
-<!-- Start Last Section -->
-<div class="container px-0">
-	<!-- Start Articles Section -->
-	<div class="row gx-0 my-1 px-0">
-		<!-- Start Last Section (title) -->
-		<div class="r_ht-3 col-12 bg-primary mb-1 d-flex flex-row">
-			<div class="text-white bg-dark py-2 px-4"> الأخبار  </div>
-		</div>
-		<!--  End Last Section (title)  -->
-		<!-- Start Last Section (Sections) -->
-		<div class="col-12">
-			<div class="row g-1">
-				<div class="r_ht2 col-sm-6 col-md-4 col-lg-3">
-					<div class="h-100 bg-info"></div>
+<!-- Start Middle Section -->
+<div class="container mt-2">
+	<div class="row">
+		<div class="col-8">
+			<div class="row r_border">
+				<div class="col-2 py-1 r_bg-color1 r_section-title">منوعات</div>
+				<div class="col-10 r_bg-color2"></div>
+			</div>
+			<div class="row r_ht4 bg-white p-1">
+				<div class="col p-1">
+					<div class="row row-cols-2 pb-1">
+						<div class="col">
+							<img src="includes/images/news-4.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
+
+					<div class="row row-cols-2 py-1">
+						<div class="col">
+							<img src="includes/images/news-5.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
+
+					<div class="row row-cols-2 py-1">
+						<div class="col">
+							<img src="includes/images/news-6.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
 				</div>
-				<div class="r_ht2 col-sm-6 col-md-4 col-lg-3">
-					<div class="h-100 bg-info"></div>
-				</div>
-				<div class="r_ht2 col-sm-6 col-md-4 col-lg-3">
-					<div class="h-100 bg-info"></div>
-				</div>
-				<div class="r_ht2 col-sm-6 d-md-none col-lg-3 d-lg-block">
-					<div class="h-100 bg-info"></div>
+
+
+				<div class="col p-1">
+					<div class="row row-cols-2 pb-1">
+						<div class="col">
+							<img src="includes/images/news-4.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
+
+					<div class="row row-cols-2 py-1">
+						<div class="col">
+							<img src="includes/images/news-5.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
+
+					<div class="row row-cols-2 py-1">
+						<div class="col">
+							<img src="includes/images/news-6.jpg" width="190px" height="124px">
+						</div>
+						<div class="col">
+							<h3 class="r_news2">مدير التعليم يجتمع برؤساء الأقسام لمناقشة كافة التحضيرات الخاصة باللقاء المجتمعي</h3>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-		<!--  End Last Section (Sections)  -->
+		<div class="col-4">
+			<div class="container-fluid ms-2 gx-0">
+				<div class="row r_border">
+				<div class="col py-1 r_bg-color1  r_section-title">مواقع صديقة</div>
+				<div class="col r_bg-color2"></div>
+			</div>
+			<div class="row r_ht4 r_bg-color1 p-1">
+				<div class="col p-1">
+					<div class="row px-2 row-cols-1">
+						<div class="col p-1">
+							<img src="includes/images/news-2.jpg" width="365px" height="70px">
+						</div>
+						<div class="col p-1">
+							<img src="includes/images/news-2.jpg" width="365px" height="70px">
+						</div>
+						<div class="col p-1">
+							<img src="includes/images/news-2.jpg" width="365px" height="70px">
+						</div>
+						<div class="col p-1">
+							<img src="includes/images/news-2.jpg" width="365px" height="70px">
+						</div>
+						<div class="col p-1">
+							<img src="includes/images/news-2.jpg" width="365px" height="70px">
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
 	</div>
-	<!-- End Articles Section -->
-	<!-- Start Articles Section -->
-	<div class="row g-1">
-		<div class="col-sm-6 col-md-6 col-lg-4">
-			<div class="r_ht-3 bg-success d-flex flex-row">
-				<div class="text-white bg-dark py-2 px-4"> الأخبار  </div>
-			</div>
-			<div class="r_ht3 bg-success mt-1"></div>
-		</div>
-		<div class="col-sm-6 col-md-6 col-lg-4">
-			<div class="r_ht-3 bg-danger d-flex flex-row">
-				<div class="text-white bg-dark py-2 px-4"> الأخبار  </div>
-			</div>
-			<div class="r_ht3 bg-danger mt-1"></div>
-		</div>
-		<div class="col-sm-6 d-sm-none col-lg-4 d-lg-block">
-			<div class="r_ht-3 bg-dark d-flex flex-row">
-				<div class="text-white bg-dark py-2 px-4"> الأخبار  </div>
-			</div>
-			<div class="r_ht3 bg-dark mt-1"></div>
-		</div>
-	</div>
-	<!--  End Articles Section  -->
 </div>
-		<!--  End Last Section  -->
+<!--  End Middle Section  -->
