@@ -21,19 +21,30 @@
 	<!--  End Section  -->
 	<!------- Header --------------->
 	<header>
-		<?php require 'includes/index/header.php'; ?>
+		<?php 
+			require 'new/header.php'
+			//require 'includes/index/header.php'; 
+		?>
 	</header>
 	<!------------------------------>
 
 	<!------- Main ----------------->
 	<main>
-		<?php require 'includes/index/main.php'; ?>
+		<?php 
+			require 'new/main1.php';
+			require 'new/main2.php';
+			require 'new/main3.php';
+			//require 'includes/index/main.php'; 
+		?>
 	</main>
 	<!------------------------------>
 
 	<!------- footer --------------->
 	<footer>
-		<?php require 'includes/index/footer.php'; ?>
+		<?php 
+			require 'new/footer.php'
+			//require 'includes/index/footer.php'; 
+		?>
 	</footer>
 	<!------------------------------>
 	

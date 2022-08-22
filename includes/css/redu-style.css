@@ -1,9 +1,9 @@
 * { margin: 0; font-family: "SansArabic";}
 /**********************/
 :root {
-  --color-1: #694700; /** Dark Brown **/
-  --color-2: #c69a39; /** Light Brown **/
-  --color-3: #dbdbdb; /** Light **/
+  --color-1: #616d7d; /** Dark Brown 694700**/ 
+  --color-2: #439e8d  ; /** Light Brown c69a39**/
+  --color-3: #3a3839; /** Light **/
   --color-4: #f2f2f2; /**Body Back**/
   --color-5: #002f45;
 }
@@ -60,12 +60,35 @@
 }
 
 .r_border {
-	border-bottom: 5px solid var(--color-1);
+	border-bottom: 2px solid var(--color-1);
 }
 
+.r_section-border {
+	margin-top: 10px;
+	border-top: 5px solid var(--color-1);
+}
+
+.round-border {
+	border: 2px dotted var(--color-2);
+	background-color: white;
+}
+
+.round-border:hover {
+	background-color: var(--color-2);
+	border: 2px dotted white;
+}
+
+.ads-border {
+	border: 2px solid var(--color-2);
+}
+
+.r_main-row {
+	border-top: 4px solid var(--color-2);
+	border-bottom: 4px solid var(--color-2);
+}
 .r_main-img {
-	width: 665px;
-	height: 384px;
+	width: 100%;
+	height: 400px;
 }
 
 .r_main-title {
@@ -85,27 +108,27 @@
 }
 
 .r_section-title {
-	font-size: 16px;
-	color: white;
+	font-size: 20px;
+	color: black;
 	text-align: center;
 	font-weight: bold;
 }
 
 .r_news1 {
-	font-size: 28px;
-	color: black;
+	font-size: 20px;
+	color: white;
 	text-align: center;
 }
 
 .r_news1:hover {
-	color: var(--color-1);
+	color: var(--color-3);
 	font-weight: bold;
 }
 
 .r_news2 {
 	font-size: 20px;
-	color: black;
-	text-align: right;
+	color: var(--color-1);
+	text-align: center;
 	vertical-align: baseline;
 }
 
